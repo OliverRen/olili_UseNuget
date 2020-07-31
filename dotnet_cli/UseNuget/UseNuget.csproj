@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	<PackageId>dotnet_cli_UseNuget</PackageId>
+	<Version>1.0.0</Version>
+	<Authors>olili</Authors>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json.wifisong" Version="10.0.3" />
+  </ItemGroup>
+
+</Project>
